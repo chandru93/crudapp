@@ -1,0 +1,9 @@
+a {
+  color: #008cba !important;
+}
+a:hover {
+  cursor: pointer;
+}
+a > fa-icon{
+  padding: 0px 5px;
+}
